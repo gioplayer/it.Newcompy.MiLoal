@@ -1,0 +1,3 @@
+/auth/callback    /index.html   200
+/.well-known/*     /.well-known/:splat   200
+/auth2/callback    /index.html   200
