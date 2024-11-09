@@ -1,17 +1,17 @@
-[build]
-  publish = "public"
+[[redirects]]
+  from = "/auth/callback"
+  to = "/"
+  status = 200
+  force = true
 
 [[redirects]]
   from = "/.well-known/*"
-  to = "/well-known/:splat"
+  to = "/.well-known/:splat"
   status = 200
-[[redirects]]
-  from = "/auth/callback"
-  to = "/index.html"
-  status = 200
+  force = true
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/"
   status = 200
-  
+  force = true
