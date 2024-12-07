@@ -5,8 +5,10 @@
       "namespace": "android_app",
       "package_name": "it.Newcompy.MiLoal",
       "sha256_cert_fingerprints": [
-        "SHA256_FINGERPRINT_PRODUZIONE",
+        "SHA256_FINGERPRINT_DEBUG",
         "5YNvwWTEg2suaNNCC8EZmJ306lLRYwUwAIuoGXEAkzc="
+        "SHA256_FINGERPRINT_PRODUZIONE",
+        "V53xcHNx/9nAREoQvpbV6aQ7ggcNVS5cMDzM/syzPh4="
       ]
     }
   }
