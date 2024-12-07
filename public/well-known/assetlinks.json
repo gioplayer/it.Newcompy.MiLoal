@@ -4,6 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "it.Newcompy.MiLoal",
+            "Prova4": "Prova4",
+
       "sha256_cert_fingerprints": [
         "SHA256_FINGERPRINT_PRODUZIONE",
         "5YNvwWTEg2suaNNCC8EZmJ306lLRYwUwAIuoGXEAkzc="
